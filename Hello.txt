@@ -1,1 +1,1 @@
-asasasasdasdadadadsasda
+git push -u duc master
